@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "user123",
+      "role": "visitor"
+    },
+    {
+      "id": "9e0d",
+      "fullname": "Forlan Ordoñez",
+      "username": "foor29",
+      "password": "12345",
+      "role": "user"
+    },
+    {
+      "id": "b0cd",
+      "fullname": "Pepito Peres Ariza",
+      "username": "pepe",
+      "password": "pepito",
+      "role": "user"
+    }
+  ],
+  "events": [
+    {
+      "title": "Prueba",
+      "description": "Estoy probando",
+      "id": "377c"
+    },
+    {
+      "id": "15c8",
+      "title": "concierto",
+      "description": "lalalal",
+      "userId": "1"
+    }
+  ]
+}
